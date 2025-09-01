@@ -1,8 +1,8 @@
 public class Personas
 {
-    public String nombre { get; set; }
-    public String identidicacion { get; set; }
-    public int edad { get; set; }
-    public String correoElectronico { get; set; }
-    public String telefono { get; set; }
+    public String nombre;
+    public String identidicacion;
+    public int edad;
+    public String correoElectronico;
+    public String telefono;
 }

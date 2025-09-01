@@ -1,0 +1,6 @@
+public class Membresias
+{
+    private datetime fechaInicio;
+    private datetime fechaFin;
+    private decimal precio;
+}
