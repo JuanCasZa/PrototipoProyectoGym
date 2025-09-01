@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\PrototipadoProyecto\bin\Debug\net8.0\PrototipadoProyecto.exe
+C:\Users\USUARIO\Desktop\PrototipadoProyecto\bin\Debug\net8.0\PrototipadoProyecto.deps.json
+C:\Users\USUARIO\Desktop\PrototipadoProyecto\bin\Debug\net8.0\PrototipadoProyecto.runtimeconfig.json
+C:\Users\USUARIO\Desktop\PrototipadoProyecto\bin\Debug\net8.0\PrototipadoProyecto.dll
+C:\Users\USUARIO\Desktop\PrototipadoProyecto\bin\Debug\net8.0\PrototipadoProyecto.pdb
+C:\Users\USUARIO\Desktop\PrototipadoProyecto\obj\Debug\net8.0\PrototipadoProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\PrototipadoProyecto\obj\Debug\net8.0\PrototipadoProyecto.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\PrototipadoProyecto\obj\Debug\net8.0\PrototipadoProyecto.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\PrototipadoProyecto\obj\Debug\net8.0\PrototipadoProyecto.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\PrototipadoProyecto\obj\Debug\net8.0\PrototipadoProyecto.dll
+C:\Users\USUARIO\Desktop\PrototipadoProyecto\obj\Debug\net8.0\refint\PrototipadoProyecto.dll
+C:\Users\USUARIO\Desktop\PrototipadoProyecto\obj\Debug\net8.0\PrototipadoProyecto.pdb
+C:\Users\USUARIO\Desktop\PrototipadoProyecto\obj\Debug\net8.0\PrototipadoProyecto.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\PrototipadoProyecto\obj\Debug\net8.0\ref\PrototipadoProyecto.dll
