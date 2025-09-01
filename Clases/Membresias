@@ -1,6 +1,7 @@
-public class Membresias
+public interface Membresias
 {
-    private datetime fechaInicio;
-    private datetime fechaFin;
-    private decimal precio;
+private DateTime fechaInicio;
+private DateTime fechaFin;
+private decimal precio;
 }
+
