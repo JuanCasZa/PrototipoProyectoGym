@@ -1,5 +1,5 @@
 using PrototipadoProyecto.Modelos.InstrumentosActividades;
-public class Maquinarias : Instrumentos, IMantenimientos
+public class Maquinarias : Instrumentos
 {
     //Atributos
     private int Id;
@@ -9,5 +9,5 @@ public class Maquinarias : Instrumentos, IMantenimientos
     //Métodos
 
 
-    
+
 }

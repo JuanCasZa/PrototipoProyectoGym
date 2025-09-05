@@ -8,6 +8,7 @@ namespace PrototipadoProyecto.Modelos.InstrumentosActividades
         private String DescripcionGeneral { get; set; }
         private bool? Estado { get; set; }
         private String? DescripcionEstado { get; set; }
+        private bool Mantenimiento { get; set; }
 
         //Métodos
     }
