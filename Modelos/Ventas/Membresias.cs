@@ -1,3 +1,5 @@
+using PrototipadoProyecto.Modelos.Ventas;
+
 public class Membresias
     {
         private DateTime FechaInicial { get; set; }

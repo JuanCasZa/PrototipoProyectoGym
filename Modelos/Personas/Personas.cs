@@ -1,7 +1,8 @@
-namespace PrototipadoProyecto.Clases
+namespace PrototipadoProyecto.Modelos.Personas
 {
     public class Personas
     {
+        private int Id;
         public String Nombre;
         public String Identidicacion;
         public int Edad;

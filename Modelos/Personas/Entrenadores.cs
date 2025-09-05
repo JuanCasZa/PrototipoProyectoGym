@@ -1,7 +1,8 @@
-using PrototipadoProyecto.Clases;
+using PrototipadoProyecto.Modelos.Peronas;
 
 public class Entrenadores : Personas
 {
-    private int anhosExperiencia { get; set; }
-    private List<String> listaProfesiones { get; set; }
+    private int Id;
+    private int AnhosExperiencia { get; set; }
+    private List<String> ListaProfesiones { get; set; }
 }
