@@ -1,7 +1,0 @@
-public interface Membresias
-{
-private DateTime fechaInicio;
-private DateTime fechaFin;
-private decimal precio;
-}
-

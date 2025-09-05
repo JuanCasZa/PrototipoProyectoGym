@@ -1,5 +1,7 @@
-public class Entrenadores : Personas, Profesiones
+using PrototipadoProyecto.Clases;
+
+public class Entrenadores : Personas
 {
-    private int anhosExperiencia;
-    private List<Profesiones> listaProfesiones = new List<Profesiones>();
+    private int anhosExperiencia { get; set; }
+    private List<String> listaProfesiones { get; set; }
 }

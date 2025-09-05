@@ -1,4 +1,5 @@
-public class Clientes : Personas, Membresias
+using PrototipadoProyecto.Clases;
+public class Clientes : Personas
 {
     private decimal estatura;
     private decimal peso;
