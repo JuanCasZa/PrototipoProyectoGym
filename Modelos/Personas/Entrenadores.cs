@@ -1,4 +1,4 @@
-using PrototipadoProyecto.Modelos.Peronas;
+using PrototipadoProyecto.Modelos.Personas;
 
 public class Entrenadores : Personas
 {
