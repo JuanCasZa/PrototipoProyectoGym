@@ -6,7 +6,6 @@ namespace PrototipadoProyecto.Modelos.InstrumentosActividades
     {
         //Atributos
         private int Id;
-        private int Asistencia { get; set; }
         private decimal Duracion { get; set; }
         private Instrumentos instrumentos { get; set; }
 
